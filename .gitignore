@@ -11,3 +11,7 @@
 *.lai
 *.la
 *.a
+
+# our own stuff
+a3.cpp
+a3
